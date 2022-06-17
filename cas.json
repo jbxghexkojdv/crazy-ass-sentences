@@ -1,14 +1,14 @@
 {
     "english": 
     {
-        "beginnings": ["I am less pregnant when I drink"],
-        "endings": ["alcohol"],
+        "beginnings": ["I am less pregnant when I drink", "I threw a chair at"],
+        "endings": ["alcohol", "Donald Trump"],
         "punc": [[".", "!", "?"], ["", "", ""]]
     },
     "spanish":
     {
-        "beginnings": ["Estoy menos embarazada si bebo"],
-        "endings": ["alcohol"],
+        "beginnings": ["Estoy menos embarazada si bebo", "Le lancé una silla a"],
+        "endings": ["alcohol", "Donald Trump"],
         "punc": [[".", "!", "?"], ["", "¡", "¿"]]
     }
 }
