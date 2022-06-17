@@ -7,8 +7,8 @@
     },
     "spanish":
     {
-        "beginnings": [""],
-        "endings": [""],
+        "beginnings": ["Estoy menos embarazada si bebo"],
+        "endings": ["alcohol"],
         "punc": [[".", "!", "?"], ["", "¡", "¿"]]
     }
 }
