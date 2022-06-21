@@ -1,14 +1,14 @@
 {
     "english": 
     {
-        "beginnings": ["I am less pregnant when I drink", "I threw a chair at"],
-        "endings": ["alcohol", "Donald Trump"],
+        "beginnings": ["I am less pregnant if I drink", "I threw a chair at", "I am listening to"],
+        "endings": ["alcohol", "Donald Trump", "Lena Raine's Labyrithine"],
         "punc": [[".", "!", "?"], ["", "", ""]]
     },
     "spanish":
     {
-        "beginnings": ["Estoy menos embarazada si bebo", "Le lancé una silla a"],
-        "endings": ["alcohol", "Donald Trump"],
+        "beginnings": ["Estoy menos embarazada si bebo", "Le lancé una silla a", "Estoy escuchando"],
+        "endings": ["alcohol", "Donald Trump", "Labyrinthine de Lena Raine"],
         "punc": [[".", "!", "?"], ["", "¡", "¿"]]
     }
 }
