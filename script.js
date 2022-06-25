@@ -6,4 +6,4 @@ a.onload = () =>
   sentences = JSON.parse(a.responseText);
 };
 a.send();
-document.getElementById("sentence").innerHTML = JSON.stringify(sentences);
+document.getElementById("sentence").innerHTML = a.status;
