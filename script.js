@@ -13,4 +13,11 @@ const sentences = {
   }
 };
 
-document.getElementById("sentence").innerHTML = JSON.stringify(sentences);
+function randelem(arr)
+{
+  return arr[Math.floor(Math.random()*arr.length)];
+}
+
+let generatedSentences;
+
+document.getElementById("sentence").innerHTML = "{ }";
