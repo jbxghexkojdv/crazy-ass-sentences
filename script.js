@@ -48,6 +48,7 @@ function generate()
         break;
       default:
         generatedSentences.push(create("english"));
+    }
   }
   document.getElementById("sentence").innerHTML = generatedSentences[0] + "<br /> Sentence 1 of " + amount;
   sentenceNum = 0;
