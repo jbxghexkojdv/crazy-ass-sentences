@@ -8,7 +8,7 @@ const sentences = {
   "spanish":
   {
     "beginnings": ["Estoy menos embarazada si bebo", "Le lancé una silla a", "Estoy escuchando a", "Sé la dirección de"],
-    "endings": ["alcohol", "your mom", "Labyrinthine de Lena Raine"],
+    "endings": ["alcohol", "tu madre", "Labyrinthine de Lena Raine"],
     "punc": [[".", "!", "?"], ["", "¡", "¿"]]
   }
 };
