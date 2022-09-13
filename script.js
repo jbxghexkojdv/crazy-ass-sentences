@@ -1,14 +1,14 @@
 const sentences = {
   "english": 
   {
-    "beginnings": ["I am less pregnant if I drink", "I threw a chair at", "I am listening to", "I know the address of", "Ava will learn"],
-    "endings": ["alcohol", "your mom", "Labyrithine by Lena Raine", "to code"],
+    "beginnings": ["I am less pregnant if I drink", "I threw a chair at", "I am listening to", "I know the address of", "Ava will learn", "there's still"],
+    "endings": ["alcohol", "your mom", "Labyrithine by Lena Raine", "to code", "9 minutes"],
     "punc": [[".", "!", "?"], ["", "", ""]]
   },
   "spanish":
   {
-    "beginnings": ["Estoy menos embarazada si bebo", "Le lancé una silla a", "Estoy escuchando a", "Sé la dirección de", "Ava aprenderá"],
-    "endings": ["alcohol", "tu madre", "Labyrinthine por Lena Raine", "codificar"],
+    "beginnings": ["Estoy menos embarazada si bebo", "Le lancé una silla a", "Estoy escuchando a", "Sé la dirección de", "Ava aprenderá", "Todavía hay"],
+    "endings": ["alcohol", "tu madre", "Labyrinthine por Lena Raine", "codificar", "9 minutos"],
     "punc": [[".", "!", "?"], ["", "¡", "¿"]]
   }
 };
