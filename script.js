@@ -1,17 +1,9 @@
-const sentences = {
-  "english": 
-  {
-    "beginnings": ["I am less pregnant if I drink", "I threw a chair at", "I am listening to", "I know the address of", "Ava will learn", "there's still"],
-    "endings": ["alcohol", "your mom", "Labyrithine by Lena Raine", "to code", "9 minutes"],
-    "punc": [[".", "!", "?"], ["", "", ""]]
-  },
-  "spanish":
-  {
-    "beginnings": ["Estoy menos embarazada si bebo", "Le lancé una silla a", "Estoy escuchando a", "Sé la dirección de", "Ava aprenderá", "Todavía hay"],
-    "endings": ["alcohol", "tu madre", "Labyrinthine por Lena Raine", "codificar", "9 minutos"],
-    "punc": [[".", "!", "?"], ["", "¡", "¿"]]
-  }
-};
+// debugger;
+let sentences = void 0;
+
+fetch("./cas.json").then((e)=>{
+  e.json().then((f)=>{sentences = f; return void 0;}, (f)=>void 0)
+}, (e)=>void 0);
 
 function randelem(arr)
 {
@@ -24,7 +16,7 @@ let sentenceNum = 0;
 
 function create(lang)
 {
-  const puncnum = Math.floor(Math.random()*3);
+  const puncnum = Math.floor(Math.random()*4);
   let retval = "";
   retval += sentences[lang].punc[1][puncnum];
   retval += randelem(sentences[lang].beginnings) + " ";
@@ -62,4 +54,16 @@ function forward()
   display.innerHTML = generatedSentences[sentenceNum] + "<br />Sentence " + `${sentenceNum + 1} of ${generatedSentences.length}`
 }
 
+function back()
+{
+  let display = document.getElementById("sentence");
+  sentenceNum--;
+  sentenceNum %= generatedSentences.length;
+  display.innerHTML = generatedSentences[sentenceNum] + "<br />Sentence " + `${sentenceNum + 1} of ${generatedSentences.length}`
+}
+
 document.getElementById("sentence").innerHTML = "{ }";
+
+document.getElementById("go").onclick = generate;
+document.getElementById("back").onclick = back;
+document.getElementById("forward").onclick = forward;

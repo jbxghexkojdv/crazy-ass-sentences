@@ -1,1 +1,43 @@
+body,
+input,
+select,
+option,
+button
+{
+  background-color: black;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
 
+div
+{
+  height: 100%;
+  width: 100%;
+}
+
+div,
+div *
+{
+  font-size: 40px;
+}
+
+#back,
+#forward
+{
+  position: absolute;
+  top: 55%;
+}
+
+#forward
+{
+  right: 0;
+}
+
+p
+{
+  width: 90%;
+  position: absolute;
+  top: 45%;
+  text-align: center;
+  left: 5%;
+}
