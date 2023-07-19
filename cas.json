@@ -1,14 +1,14 @@
 {
     "english": 
     {
-        "beginnings": ["I am less pregnant if I drink", "I threw a chair at", "I am listening to", "I am once again asking you", "Military time is", "07:00 is not", "That's 2 pm for", "Look upon", "The librarian was", "Firefox is better than", "They have", "Ben and Adam need", "Q spelled \"kyphoplasty\" like"],
-        "endings": ["alcohol", "Donald Trump", "Lena Raine's Labyrithine", "to count on your fingers in binary", "so much better", "19:00", "all you buffoons who don't know military time", "the votes", "the substitute for the susbtitute for the substitute", "Microsoft Edge", "a California deep dish", "to find 3 bugs in Wyoming", "\"kyphoplstiicy\""],
+        "beginnings": ["I am less pregnant if I drink", "I threw a chair at", "I am listening to", "Military time is", "That's 2 pm for", "Look upon", "The librarian was", "Firefox is better than", "They have", "Ben and Adam need", "Q spelled \"kyphoplasty\" like", "I will talk to you about", "Breathe in the smell of", "Keep your mouth close to"],
+        "endings": ["alcohol", "Donald Trump", "Labyrithine by Lena Raine", "so much better", "all you buffoons who don't know military time", "the votes", "the substitute for the susbtitute for the substitute", "Microsoft Edge", "a California deep dish", "\"kyphoplstiicy\"", "normal things", "the phone"],
         "punc": [[".", "!", "?", "‽"], ["", "", "", ""]]
     },
     "spanish":
     {
-        "beginnings": ["Estoy menos embarazada si bebo", "Le lancé una silla a", "Estoy escuchando", "Una vez más te pido que", "El tiempo militar es", "07:00 no es", "Eso es 2 de la tarde por", "Mira", "La bibliotecaria estaba", "Firefox es mejor que", "Tienen", "Ben y Adam necesitan", "Q deletreó \"kyphoplasty\" como"],
-        "endings": ["alcohol", "Donald Trump", "Labyrinthine de Lena Raine", "cuentes con tus dedos en binario", "tanto mejor", "19:00", "ustedes los bufones quien no saben el tiempo militar", "los votos", "la suplente de la suplente del suplente", "Microsoft Edge", "un plato hondo de California", "descubrir 3 insectos en Wyoming", "\"kyphoplstiicy\""],
+        "beginnings": ["Estoy menos embarazada si bebo", "Le lancé una silla a", "Estoy escuchando", "El tiempo militar es", "Eso es 2 de la tarde por", "Mira", "La bibliotecaria estaba", "Firefox es mejor que", "Tienen", "Ben y Adam necesitan", "Q deletreó \"kyphoplasty\" como", "Hablaré contigo sobre", "Aspira el olor de", "Mantén la boca cerca"],
+        "endings": ["alcohol", "Donald Trump", "Labyrinthine por Lena Raine", "ustedes los bufones quien no saben el tiempo militar", "los votos", "la suplente de la suplente del suplente", "Microsoft Edge", "un plato hondo de California", "\"kyphoplstiicy\"", "cosas normales", "el celular"],
         "punc": [[".", "!", "?", "‽"], ["", "¡", "¿", "⸘"]]
     }
 }
