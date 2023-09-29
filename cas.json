@@ -1,14 +1,14 @@
 {
     "english": 
     {
-        "beginnings": ["I am less pregnant if I drink", "I threw a chair at", "I am listening to", "Military time is", "That's 2 pm for", "Look upon", "The librarian was", "Firefox is better than", "They have", "Ben and Adam need", "Q spelled \"kyphoplasty\" like", "I will talk to you about", "Breathe in the smell of", "Keep your mouth close to"],
-        "endings": ["alcohol", "Donald Trump", "Labyrithine by Lena Raine", "so much better", "all you buffoons who don't know military time", "the votes", "the substitute for the susbtitute for the substitute", "Microsoft Edge", "a California deep dish", "\"kyphoplstiicy\"", "normal things", "the phone"],
+        "beginnings": ["I am less pregnant if I drink", "I threw a chair at", "I am not listening to", "Military time is", "That's", "Look upon", "The librarian was", "Firefox is better than", "They have", "Ben and Adam need", "Q spelled \"kyphoplasty\" like", "I will talk to you about", "Breathe in the smell of", "Keep your mouth close to", "You will know you're successful when you can make progress on", "Be", "Please delete", "I need you to say something about", "The following subscription has been automatically renewed:", "Hello, this is"],
+        "endings": ["alcohol", "all you buffoons who don't know military time", "the votes", "the substitute for the susbtitute for the substitute", "Microsoft Edge", "a California deep dish", "\"kyphoplstiicy\"", "normal things", "the phone", "Friday", "the Senate floor", "your earlobes", "\"beep beep beep beep\"", "the earwax", "2 pm", "your computer", "a pile of phones", "the temporal dimension", "the English language", "Netfl!x"],
         "punc": [[".", "!", "?", "‽"], ["", "", "", ""]]
     },
     "spanish":
     {
-        "beginnings": ["Estoy menos embarazada si bebo", "Le lancé una silla a", "Estoy escuchando", "El tiempo militar es", "Eso es 2 de la tarde por", "Mira", "La bibliotecaria estaba", "Firefox es mejor que", "Tienen", "Ben y Adam necesitan", "Q deletreó \"kyphoplasty\" como", "Hablaré contigo sobre", "Aspira el olor de", "Mantén la boca cerca"],
-        "endings": ["alcohol", "Donald Trump", "Labyrinthine por Lena Raine", "ustedes los bufones quien no saben el tiempo militar", "los votos", "la suplente de la suplente del suplente", "Microsoft Edge", "un plato hondo de California", "\"kyphoplstiicy\"", "cosas normales", "el celular"],
+        "beginnings": ["Estoy menos embarazada si bebo", "Le lancé una silla a", "No estoy escuchando", "El tiempo militar es", "Eso es 2 de la tarde por", "Mira", "La bibliotecaria estaba", "Firefox es mejor que", "Tienen", "Ben y Adam necesitan", "Q deletreó \"kyphoplasty\" como", "Hablaré contigo sobre", "Aspira el olor de", "Mantén la boca cerca", "Sabrás que tienes éxito cuando puedes hacer progreso en", "Sé", "Por favor, borra", "Necesito que digas algo sobre"],
+        "endings": ["alcohol", "ustedes los bufones quien no saben el tiempo militar", "los votos", "la suplente de la suplente del suplente", "Microsoft Edge", "un plato hondo de California", "\"kyphoplstiicy\"", "cosas normales", "el celular", "viernes", "la cámara senatorial", "\"bip bip bip bip\"", "2 de la tarde", "tu computadora", "un montón de teléfonos", "la dimensión temporal", "la lengua española", "Netfl¡x"],
         "punc": [[".", "!", "?", "‽"], ["", "¡", "¿", "⸘"]]
     }
 }
